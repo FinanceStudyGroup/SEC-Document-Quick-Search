@@ -46,5 +46,5 @@ Document:
 whereby, with relative ease we can quickly navigate to SEC EDGAR's search results for all of Eastman Chemical Company's
 most recent annual reports.
 
-Similarly, we could do this for Forms 10-Q or 20-F, as the case may be. The SEC Document Locator allows for quick
+Similarly, we could do this for the Forms 10-Q or 20-F, as the case may be. The SEC Document Locator allows for quick
 access to any SEC-filed materials available through EDGAR.
