@@ -20,8 +20,7 @@ and [Chrome Driver](https://chromedriver.storage.googleapis.com/index.html?path=
 
 The Selenium package for Python allows for automation of an instance of the web browser.
 
-Specifically, we can write Python code to use the Selenium package to run Chrome Driver, which controls
-an instance of Google Chrome.
+Specifically, we can write Python code to use the Selenium package to run Chrome Driver to control Google Chrome.
 
 In this way, we can automate tedious processes of populating address bars, clicking buttons, and constantly
 repeating the same workflows.
